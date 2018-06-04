@@ -15,7 +15,7 @@ function divSelector() {
 }
 
 function firstListItem() {
-  var test = $('#pic-list ul li:first-child')
+  var test = $('#pic-list li:first-child')
   console.log(test)
   return test
 }
